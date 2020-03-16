@@ -18,9 +18,5 @@ PS1='%n@%m %* %/ -> '
 PS2='-> '
 PS3='-> '
 
-alias clear='clear && neofetch'
-
 alias duck='w3m duckduckgo.com'
 alias google='w3m google.com'
-
-neofetch
